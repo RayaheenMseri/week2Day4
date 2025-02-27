@@ -1,0 +1,28 @@
+@model MYJobListing.Models.JobListing
+
+
+<h1>Job Details</h1>
+
+<table class="table">
+    <tr>
+        <td>Title:</td>
+        <td>@Model.title</td>
+    </tr>
+    <tr>
+        <td>Company:</td>
+        <td>@Model.companyName</td>
+    </tr>
+    <tr>
+        <td>Location:</td>
+        <td>@Model.location</td>
+    </tr>
+    <tr>
+        <td>Job Type:</td>
+        <td>@Model.JobType</td>
+    </tr>
+    <tr>
+        <td>Posted Date:</td>
+        <td>Posted on: @Model.PostedDate.ToString("MMM dd, yyyy")</td>
+    </tr>
+</table>
+
