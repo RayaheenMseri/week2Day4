@@ -24,6 +24,8 @@ namespace TechJobPortal.Controllers
         }
 
         // Details action to display job details
+
+        [HttpGet("{id:int}")]
         public IActionResult Details(int id)
         {
             var job = Jobs.Find(j => j.id == id);
@@ -33,20 +35,6 @@ namespace TechJobPortal.Controllers
             }
             return View(job);
         }
-
-        // public IActionResult Index(JobType? selectedJobType)
-        // {
-    
-        //     var jobTypes = Enum.GetValues(typeof(JobType)).Cast<JobType>().ToList();
-        //     ViewBag.JobTypes = jobTypes;
-
-        //     if (selectedJobType.HasValue)
-        //     {
-        //         Jobs = Jobs.Where(j => j.JobType == selectedJobType.Value).ToList();
-        //     }
-
-        //     return View(Jobs);  
-        // }
 
 
     }

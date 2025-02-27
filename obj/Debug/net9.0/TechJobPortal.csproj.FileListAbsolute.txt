@@ -93,5 +93,6 @@ C:\Users\HUAWEI\OneDrive\Desktop\dev training\TechJobPortal\obj\Debug\net9.0\ref
 C:\Users\HUAWEI\OneDrive\Desktop\dev training\TechJobPortal\obj\Debug\net9.0\TechJobPortal.pdb
 C:\Users\HUAWEI\OneDrive\Desktop\dev training\TechJobPortal\obj\Debug\net9.0\TechJobPortal.genruntimeconfig.cache
 C:\Users\HUAWEI\OneDrive\Desktop\dev training\TechJobPortal\obj\Debug\net9.0\ref\TechJobPortal.dll
-C:\Users\HUAWEI\OneDrive\Desktop\dev training\TechJobPortal\obj\Debug\net9.0\compressed\888236wc95-pagft4q680.gz
-C:\Users\HUAWEI\OneDrive\Desktop\dev training\TechJobPortal\obj\Debug\net9.0\compressed\jnwkvmwcjy-pagft4q680.gz
+C:\Users\HUAWEI\OneDrive\Desktop\dev training\TechJobPortal\obj\Debug\net9.0\TechJobPortal.sourcelink.json
+C:\Users\HUAWEI\OneDrive\Desktop\dev training\TechJobPortal\obj\Debug\net9.0\compressed\888236wc95-2ng3m48w90.gz
+C:\Users\HUAWEI\OneDrive\Desktop\dev training\TechJobPortal\obj\Debug\net9.0\compressed\jnwkvmwcjy-2ng3m48w90.gz

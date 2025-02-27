@@ -56,8 +56,3 @@ button.accept-policy {
   color:black;
 }
 
-@Html.Partial("_Header")
-
-@RenderBody()
-
-@Html.Partial("_Footer")
