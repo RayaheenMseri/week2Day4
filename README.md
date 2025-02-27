@@ -62,7 +62,4 @@ TechJobPortal/
 ## License
 This project is open-source and available under the MIT License.
 
-## Contributors
-- **Your Name** (Developer)
-- Open for contributions! Feel free to fork and submit pull requests.
 
